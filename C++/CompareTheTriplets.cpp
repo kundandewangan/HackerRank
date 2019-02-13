@@ -1,5 +1,5 @@
 /*
-	Compare the Triplets
+	Compare the Triplets 
 */
 
 #include<iostream>
