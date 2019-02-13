@@ -1,5 +1,5 @@
 /*
-	Simple Array Sum
+	Simple Array Sum 
 */
 
 #include <iostream>
