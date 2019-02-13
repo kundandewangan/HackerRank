@@ -1,5 +1,5 @@
 /*
-	Solve Me First
+	Solve Me First 
 */
 
 #include <cmath>
